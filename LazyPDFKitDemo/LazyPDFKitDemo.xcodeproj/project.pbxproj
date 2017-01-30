@@ -376,6 +376,7 @@
 					/Users/ctepv1/Desktop/lazypdfkit2,
 				);
 				INFOPLIST_FILE = LazyPDFKitDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -390,6 +391,7 @@
 					/Users/ctepv1/Desktop/lazypdfkit2,
 				);
 				INFOPLIST_FILE = LazyPDFKitDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -448,6 +450,7 @@
 				902D28451AC3AE6100BADF2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		902D28461AC3AE6100BADF2C /* Build configuration list for PBXNativeTarget "LazyPDFKitDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +459,7 @@
 				902D28481AC3AE6100BADF2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
