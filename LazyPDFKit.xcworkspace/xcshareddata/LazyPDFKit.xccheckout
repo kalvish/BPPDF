@@ -12,22 +12,34 @@
 	<dict>
 		<key>E034296E1F99127E376A5A231EEF1D9DE518AAC8</key>
 		<string>https://bitbucket.org/lazyprogram/lazypdfkit.git</string>
+		<key>EEFA7BB6F0363727BB9F8C3B0DAABFC2C7E17DED</key>
+		<string>https://github.com/kalvish/BPPDF.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>LazyPDFKit.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>E034296E1F99127E376A5A231EEF1D9DE518AAC8</key>
+		<string>../../lazypdfkit2</string>
+		<key>EEFA7BB6F0363727BB9F8C3B0DAABFC2C7E17DED</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/lazyprogram/lazypdfkit.git</string>
+	<string>https://github.com/kalvish/BPPDF.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E034296E1F99127E376A5A231EEF1D9DE518AAC8</string>
+	<string>EEFA7BB6F0363727BB9F8C3B0DAABFC2C7E17DED</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEFA7BB6F0363727BB9F8C3B0DAABFC2C7E17DED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BPPDF</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
